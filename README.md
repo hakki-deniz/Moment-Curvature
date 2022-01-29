@@ -1,5 +1,5 @@
 # Moment-Curvature
-Moment curvature calculation for a single section
+Moment curvature calculation for a single section.
 
 This piece of code is prepared as an answer for the question at:
         https://portwooddigital.com/2022/01/16/two-fibers-five-ways/
@@ -15,4 +15,4 @@ This piece of code is prepared as an answer for the question at:
         1 - https://openseespydoc.readthedocs.io/en/latest/src/MomentCurvature.html
         2 - https://opensees.berkeley.edu/wiki/index.php/Moment_Curvature_Example
         
-Note: The exact solution is obtained by patch command (10x10 fibers).
+Note: The exact solution is obtained by using patch command (10x10 fibers).
